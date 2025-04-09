@@ -10,10 +10,11 @@
 
 <p align="center">
   <a href="https://buymeacoffee.com/muhammadmirzo" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFD700?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000" alt="Buy me a coffee" />
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFD700?style=for-the-badge&logoColor=000000&logo=" alt="Buy me a coffee" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://tirikchilik.uz/muhammadmirzomd" target="_blank">
-    <img src="https://img.shields.io/badge/T%20Tirikchilik.uz-FFD700?style=for-the-badge&logoColor=000000" alt="Tirikchilik.uz" />
+    <img src="https://img.shields.io/badge/T%20Tirikchilik.uz-FFD700?style=for-the-badge&logoColor=000000&logo=" alt="Tirikchilik.uz" />
   </a>
 </p>
+
