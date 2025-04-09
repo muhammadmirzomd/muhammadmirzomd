@@ -5,9 +5,12 @@
 </h1>
 
 <p align="center">
-  <a href="https://buymeacoffee.com/muhammadmirzo">![Buy me coffee](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</a>
-  ![Tirikchilik,uz](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  <a href="https://buymeacoffee.com/muhammadmirzo" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee" />
+  </a>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Tirikchilik.uz" />
 </p>
+
 
 
 <div align="center">
