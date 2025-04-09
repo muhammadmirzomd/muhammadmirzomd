@@ -14,7 +14,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://tirikchilik.uz/muhammadmirzomd" target="_blank">
-    <img src="https://img.shields.io/badge/T%20Tirikchilik.uz-FFD700?style=for-the-badge&logoColor=000000&logo=" alt="Tirikchilik.uz" />
+    <img src="https://img.shields.io/badge/Tirikchilik.uz-FFD700?style=for-the-badge&logoColor=000000&logo=" alt="Tirikchilik.uz" />
   </a>
 </p>
 
