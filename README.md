@@ -9,11 +9,11 @@
 </h1>
 
 <p align="center">
-  <a href="https://buymeacoffee.com/muhammadmirzo" target="_blank">
+  <a href="https://buymeacoffee.com/muhammadmirzo" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFD700?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000" alt="Buy me a coffee" />
   </a>
   <a href="https://tirikchilik.uz/muhammadmirzomd" target="_blank">
-    <img src="https://img.shields.io/badge/Tirikchilik.uz-FFD700?style=for-the-badge&logo=javascript&logoColor=000000" alt="Tirikchilik.uz" />
+    <img src="https://img.shields.io/badge/Tirikchilik.uz%20T-FFD700?style=for-the-badge&logoColor=000000" alt="Tirikchilik.uz" />
   </a>
 </p>
 
