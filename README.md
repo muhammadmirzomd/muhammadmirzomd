@@ -4,4 +4,7 @@
   <img src="snake.svg" alt="Ravshanov Shahzod" />
 </h1>
 
-<a href="https://u8views.com/github/muhammadmirzomd"><img src="https://u8views.com/api/v1/github/profiles/197096556/views/day-week-month-total-count.svg"></a>
+<div align="center">
+  <a href="https://u8views.com/github/muhammadmirzomd"><img src="https://u8views.com/api/v1/github/profiles/197096556/views/day-week-month-total-count.svg"></a>
+</div>
+
