@@ -53,15 +53,17 @@
 ## 📬 Contact Me
 <br/>
 
+<br/>
+
 <p align="center">
 
   <a href="mailto:hi@muhammadmirzo.uz" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Email-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-Email-ff4a3d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;
 
   <a href="https://t.me/muhammadmirzomd" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   &nbsp;&nbsp;
 
@@ -70,33 +72,33 @@
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://x.com/muhammadmirzomd" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://twitter.com/muhammadmirzomd" target="_blank">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
   </a>
   &nbsp;&nbsp;
 
   <a href="https://instagram.com/muhammadmirzomd" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-View-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-View-FD1D1D?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
 
   <a href="https://facebook.com/muhammadmirzomd" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-Profile-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   &nbsp;&nbsp;
 
   <a href="https://youtube.com/@muhammadmirzomd" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   &nbsp;&nbsp;
 
   <a href="https://github.com/muhammadmirzomd" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Code-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Code-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
 
   <a href="https://muhammadmirzo.uz" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Website-555?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 
 </p>
@@ -108,6 +110,3 @@
   💬 <b>Telegram:</b> <a href="https://t.me/muhammadmirzomd">@muhammadmirzomd</a><br/>
   🌍 <b>Website:</b> <a href="https://muhammadmirzo.uz">muhammadmirzo.uz</a>
 </p>
-
----
-
