@@ -49,31 +49,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadmirzomd&show_icons=true&theme=default&hide_title=false&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadmirzomd&theme=default" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadmirzomd&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
----
 
 ## 📬 Contact Me
-
-<p align="center">
-  <i>Have a project, idea, or just want to connect?</i><br>
-  <b>Let's build something awesome together!</b>
-</p>
-
 <br/>
 
 <p align="center">
@@ -93,7 +70,7 @@
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://twitter.com/muhammadmirzomd" target="_blank">
+  <a href="https://x.com/muhammadmirzomd" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   &nbsp;&nbsp;
