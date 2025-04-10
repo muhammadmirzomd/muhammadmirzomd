@@ -28,17 +28,20 @@
 
 <br/>
 
-## ☕ Support Me
+<br/>
+
+## ☕ Small Thanks
 
 <div align="center">
   <a href="https://buymeacoffee.com/muhammadmirzo" target="_blank">
-    <img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000" alt="Buy Me a Coffee" height="40" />
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000&label=%E2%98%95%20Buy%20Me%20a%20Coffee&labelColor=000000&logoWidth=24" alt="Buy Me a Coffee" height="45" />
   </a>
   &nbsp;&nbsp;
   <a href="https://tirikchilik.uz/muhammadmirzomd" target="_blank">
-    <img src="https://img.shields.io/badge/-Tirikchilik.uz-4b8b3b?style=for-the-badge&logo=leaflet&logoColor=white" alt="Tirikchilik.uz" height="40" />
+    <img src="https://img.shields.io/badge/Tirikchilik.uz-4b8b3b?style=for-the-badge&logo=leaflet&logoColor=white&label=%F0%9F%93%A6%20Tirikchilik&labelColor=4b8b3b&logoWidth=24" alt="Tirikchilik.uz" height="45" />
   </a>
 </div>
+
 
 
 
