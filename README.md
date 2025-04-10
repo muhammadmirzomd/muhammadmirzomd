@@ -20,17 +20,6 @@
 
 <br/>
 
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-<br/>
-
 ## ☕ Small Thanks
 
 <div align="center">
@@ -39,11 +28,9 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://tirikchilik.uz/muhammadmirzomd" target="_blank">
-    <img src="https://img.shields.io/badge/Tirikchilik.uz-4b8b3b?style=for-the-badge&logo=leaflet&logoColor=white&label=%F0%9F%93%A6%20Tirikchilik&labelColor=4b8b3b" alt="Tirikchilik.uz" height="35" />
+    <img src="https://img.shields.io/badge/Tirikchilik.uz-000000?style=for-the-badge&logo=leaflet&logoColor=ffffff&label=%F0%9F%93%A6%20Tirikchilik&labelColor=ffdd00" alt="Tirikchilik.uz" height="35" />
   </a>
 </div>
-
-<br/>
 
 ## 📬 Contact Me
 
