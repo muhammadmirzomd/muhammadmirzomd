@@ -20,13 +20,17 @@
 
 <br/>
 
+<br/>
+
+## ☕ Support Me
+
 <div align="center">
   <a href="https://buymeacoffee.com/muhammadmirzo" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFD700?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000" alt="Buy Me a Coffee" />
+    <img src="https://img.shields.io/badge/-Buy&nbsp;Me&nbsp;a&nbsp;Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000" alt="Buy Me a Coffee" />
   </a>
   &nbsp;&nbsp;
   <a href="https://tirikchilik.uz/muhammadmirzomd" target="_blank">
-    <img src="https://img.shields.io/badge/Tirikchilik.uz-FFD700?style=for-the-badge&logoColor=000000" alt="Tirikchilik.uz" />
+    <img src="https://img.shields.io/badge/-Tirikchilik.uz-4b8b3b?style=for-the-badge&logo=leaflet&logoColor=white" alt="Tirikchilik.uz" />
   </a>
 </div>
 
