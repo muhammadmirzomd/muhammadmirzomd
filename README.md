@@ -85,11 +85,3 @@
   </a>
 
 </p>
-
-<br/>
-
-<p align="center">
-  📧 <b>Email:</b> <a href="muhammadmirzomd@gmail.com">hi@muhammadmirzo.uz</a><br/>
-  💬 <b>Telegram:</b> <a href="https://t.me/muhammadmirzomd">@muhammadmirzomd</a><br/>
-  🌍 <b>Website:</b> <a href="https://muhammadmirzo.uz">muhammadmirzo.uz</a>
-</p>
