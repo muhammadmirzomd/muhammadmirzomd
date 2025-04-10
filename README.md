@@ -50,67 +50,43 @@
 </p>
 
 
-<h3 align="center">🔗 Connect with me</h3>
-
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/muhammadmirzomd" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://linkedin.com/in/ebrar-dev" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ebrar-dev" height="30" width="40" />
   </a>
-  &nbsp;
-  <a href="https://t.me/muhammadmirzomd" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" height="30" width="40" />
+  <a href="https://fb.com/ebrar.dev" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ebrar.dev" height="30" width="40" />
   </a>
-  &nbsp;
-  <a href="mailto:hi@muhammadmirzo.uz" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" height="30" width="40" />
+  <a href="https://dev.to/ebrar" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ebrar" height="30" width="40" />
   </a>
-  &nbsp;
-  <a href="https://fb.com/muhammadmirzomd" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  <a href="https://twitter.com/ebrar_dev" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ebrar_dev" height="30" width="40" />
   </a>
-  &nbsp;
-  <a href="https://twitter.com/muhammadmirzomd" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  <a href="https://www.hackerrank.com/ebrar_dev" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ebrar_dev" height="30" width="40" />
   </a>
-  &nbsp;
-  <a href="https://instagram.com/muhammadmirzomd" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" height="30" width="40" />
+  <a href="https://codepen.io/ebrar" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ebrar" height="30" width="40" />
   </a>
-  &nbsp;
-  <a href="https://github.com/muhammadmirzomd" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  <a href="https://ebrar.medium.com/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ebrar.medium.com" height="30" width="40" />
   </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/matrix27" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  <a href="https://stackoverflow.com/users/ebrar" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ebrar" height="30" width="40" />
   </a>
-  &nbsp;
-  <a href="https://www.leetcode.com/matrix278" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" />
+  <a href="https://leetcode.com/ebrar" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ebrar" height="30" width="40" />
   </a>
-  &nbsp;
-  <a href="https://codepen.io/matrix27" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Codepen" height="30" width="40" />
+  <a href="https://www.showwcase.com/ebrar" target="blank">
+    <img align="center" src="https://www.showwcase.com/favicon.png" alt="ebrar" height="30" width="40" />
   </a>
-  &nbsp;
-  <a href="https://martin-sidorov.medium.com/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+  <a href="https://www.polywork.com/ebrar" target="blank">
+    <img align="center" src="https://www.polywork.com/assets/favicon/apple-icon-57x57-49bf05211cd5ebece3be3898101ac4b1d320d45bcbaa5b48f3dbf3dc33c8b3b3.png" alt="ebrar" height="30" width="40" />
   </a>
-  &nbsp;
-  <a href="https://stackoverflow.com/users/11167914" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.showwcase.com/matrix278" target="blank">
-    <img align="center" src="https://www.showwcase.com/favicon.png" alt="Showwcase" height="30" width="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.polywork.com/matrix278" target="blank">
-    <img align="center" src="https://www.polywork.com/assets/favicon/apple-icon-57x57-49bf05211cd5ebece3be3898101ac4b1d320d45bcbaa5b48f3dbf3dc33c8b3b3.png" alt="Polywork" height="30" width="40" />
-  </a>
-  &nbsp;
-  <a href="https://cord.com/candidate/account/u/candidate/57771" target="blank">
-    <img align="center" src="https://assets.co-hire.com/react/p/cord-icon-180.png" alt="Cord" height="30" width="40" />
+  <a href="https://cord.com/u/ebrar" target="blank">
+    <img align="center" src="https://assets.co-hire.com/react/p/cord-icon-180.png" alt="ebrar" height="30" width="40" />
   </a>
 </p>
 
