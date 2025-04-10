@@ -50,63 +50,67 @@
 </p>
 
 
-## 📬 Contact Me
-<br/>
-
-<br/>
+<h3 align="center">🔗 Connect with me</h3>
 
 <p align="center">
-
-  <a href="mailto:hi@muhammadmirzo.uz" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Email-ff4a3d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://linkedin.com/in/muhammadmirzomd" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  &nbsp;&nbsp;
-
-  <a href="https://t.me/muhammadmirzomd" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  &nbsp;
+  <a href="https://t.me/muhammadmirzomd" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" height="30" width="40" />
   </a>
-  &nbsp;&nbsp;
-
-  <a href="https://linkedin.com/in/muhammadmirzomd" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  &nbsp;
+  <a href="mailto:hi@muhammadmirzo.uz" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" height="30" width="40" />
   </a>
-  &nbsp;&nbsp;
-
-  <a href="https://twitter.com/muhammadmirzomd" target="_blank">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
+  &nbsp;
+  <a href="https://fb.com/muhammadmirzomd" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  &nbsp;&nbsp;
-
-  <a href="https://instagram.com/muhammadmirzomd" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-View-FD1D1D?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  &nbsp;
+  <a href="https://twitter.com/muhammadmirzomd" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  &nbsp;&nbsp;
-
-  <a href="https://facebook.com/muhammadmirzomd" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Profile-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  &nbsp;
+  <a href="https://instagram.com/muhammadmirzomd" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  &nbsp;&nbsp;
-
-  <a href="https://youtube.com/@muhammadmirzomd" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  &nbsp;
+  <a href="https://github.com/muhammadmirzomd" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
-  &nbsp;&nbsp;
-
-  <a href="https://github.com/muhammadmirzomd" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Code-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  &nbsp;
+  <a href="https://www.hackerrank.com/matrix27" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
-  &nbsp;&nbsp;
-
-  <a href="https://muhammadmirzo.uz" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  &nbsp;
+  <a href="https://www.leetcode.com/matrix278" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" />
   </a>
-
+  &nbsp;
+  <a href="https://codepen.io/matrix27" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Codepen" height="30" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://martin-sidorov.medium.com/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://stackoverflow.com/users/11167914" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://www.showwcase.com/matrix278" target="blank">
+    <img align="center" src="https://www.showwcase.com/favicon.png" alt="Showwcase" height="30" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://www.polywork.com/matrix278" target="blank">
+    <img align="center" src="https://www.polywork.com/assets/favicon/apple-icon-57x57-49bf05211cd5ebece3be3898101ac4b1d320d45bcbaa5b48f3dbf3dc33c8b3b3.png" alt="Polywork" height="30" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://cord.com/candidate/account/u/candidate/57771" target="blank">
+    <img align="center" src="https://assets.co-hire.com/react/p/cord-icon-180.png" alt="Cord" height="30" width="40" />
+  </a>
 </p>
 
-<br/>
-
-<p align="center">
-  📧 <b>Email:</b> <a href="mailto:hi@muhammadmirzo.uz">hi@muhammadmirzo.uz</a><br/>
-  💬 <b>Telegram:</b> <a href="https://t.me/muhammadmirzomd">@muhammadmirzomd</a><br/>
-  🌍 <b>Website:</b> <a href="https://muhammadmirzo.uz">muhammadmirzo.uz</a>
-</p>
